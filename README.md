@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47h2zajvzjg4hqqg46p6zse5796xdjbd8piqbtk4xi&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead]((https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lelan Kiplimo</h1>
 <h3 align="center">A passionate and experienced low-code developer and Mechatronics Engineer in Germany</h3>
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
